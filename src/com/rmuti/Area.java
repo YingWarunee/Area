@@ -8,5 +8,6 @@ public class Area {
 	  System.out.println("Triengle222");
 	  System.out.println("Circle333");
 	  System.out.println("ABC");
+	  System.out.println("ABC123");
 	}
 }
