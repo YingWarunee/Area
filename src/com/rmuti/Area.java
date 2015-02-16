@@ -10,5 +10,6 @@ public class Area {
 	  System.out.println("ABC");
 	  System.out.println("ABC123");
 	  System.out.println("pam");
+	  System.out.println("Ying");
 	}
 }
