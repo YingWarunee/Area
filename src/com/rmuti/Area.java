@@ -9,5 +9,6 @@ public class Area {
 	  System.out.println("Circle333");
 	  System.out.println("ABC");
 	  System.out.println("ABC123");
+	  System.out.println("pam");
 	}
 }
